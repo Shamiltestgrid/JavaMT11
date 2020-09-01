@@ -14,7 +14,7 @@
 
 Баг-репорт и тест-кейс
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+В качестве тестовых данных использовались данные https://github.com/Shamiltestgrid/JavaMT11/issues/1
 
 Тестирование производилось в следующем окружении:
 
